@@ -31,7 +31,8 @@ Use your preferred data analysis tool (e.g., Python, R, Excel) to load and explo
 3. Perform EDA:
 Generate summary statistics, visualizations, and identify patterns or anomalies in the data.
 
-📈 Future Enhancements
+📈 **Future Enhancements**
+
 Potential improvements and additions to this project include:
 
 Data Cleaning: Address missing values and inconsistencies.
