@@ -31,14 +31,3 @@ Use your preferred data analysis tool (e.g., Python, R, Excel) to load and explo
 3. Perform EDA:
 Generate summary statistics, visualizations, and identify patterns or anomalies in the data.
 
-📈 **Future Enhancements**
-
-Potential improvements and additions to this project include:
-
-Data Cleaning: Address missing values and inconsistencies.
-
-Feature Engineering: Create new variables to enhance model performance.
-
-Predictive Modeling: Develop models to predict employee attrition or performance.
-
-Dashboard Creation: Build interactive dashboards for HR stakeholders.
